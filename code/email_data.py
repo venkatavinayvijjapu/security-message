@@ -1,3 +1,3 @@
-password="xyfxhmjjfphowevc"
-from_email="vinay2003vv@gmail.com"
-to_email="venkatavinayvijjapu@gmail.com"
+password=""
+from_email=""
+to_email=""
